@@ -265,7 +265,7 @@ body {
 }
 /* 브랜드 배너 - 1 */
 #brand .container > ul > li:first-child {
-    background-image: url('/images/brand1.jpg');
+    background-image: url('../images/brand1.jpg');
     background-repeat: no-repeat;
 }
 #brand .container li:first-child .text .subject  {
@@ -281,7 +281,7 @@ body {
 }
 /* 브랜드 배너 - 2 */
 #brand .container > ul > :nth-child(2) {
-    background-image: url('/images/brand2.jpg');
+    background-image: url('../images/brand2.jpg');
     background-repeat: no-repeat;
 }
 #brand .container li:nth-child(2) .text {
@@ -298,7 +298,7 @@ body {
 }
 /* 브랜드 배너 - 3 */
 #brand .container > ul > li:nth-child(3) {
-    background-image: url('/images/brand3.jpg');
+    background-image: url('../images/brand3.jpg');
     background-repeat: no-repeat;
 }
 #brand .container ul li:nth-child(3) .text .subject {
